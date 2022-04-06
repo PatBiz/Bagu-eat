@@ -2,7 +2,7 @@
 
 **"Don't waste, try new tastes"**
 
-![image1](https://user-images.githubusercontent.com/80221917/162082538-3b4c24c6-9339-40d1-9b70-cba2152eede6.png =250x250)
+![image1](https://user-images.githubusercontent.com/80221917/162082538-3b4c24c6-9339-40d1-9b70-cba2152eede6.png)=250x250
 
 ## How does it works 🐍
 
