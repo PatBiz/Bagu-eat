@@ -4,10 +4,9 @@
  <img src="https://user-images.githubusercontent.com/80221917/162082538-3b4c24c6-9339-40d1-9b70-cba2152eede6.png" width="250"> 
 </p>
 
-<p style="font-family: times, serif; font-size:21pt; font-style:italic">
-    Don't waste, try new taste
+<p align = "center">
+ <strong>Don't waste, try new taste</strong>
 </p>
-
 ## How does it works 🐍
 
 
