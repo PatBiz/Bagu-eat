@@ -1,6 +1,5 @@
 # Bagu'eat
 "Don't waste, try new tastes"
-![image](https://user-images.githubusercontent.com/80221917/162081957-35bbb240-66c4-4b06-bd18-29a1f1098357.png)
 
 Python application that allows you to recognize foods, create recipes and create a personalized diet
 
