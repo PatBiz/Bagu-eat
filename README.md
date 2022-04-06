@@ -16,7 +16,9 @@ The app will be able to use your spare food to make a meal, a desert, a snack or
 
 ## Installation ⬇
 
-To install the application, you just need to download the .py files on the computer, install librairies on the one our projects works and run .py files.
+- Download the .py files,
+- Install librairies on the one our projects works 
+- Run .py files
 
 ## Made by 🔨 
 
