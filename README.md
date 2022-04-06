@@ -1,10 +1,10 @@
 # Bagu'eat 🥖
-"Don't waste, try new tastes"
 
-Python application that allows you to recognize foods, create recipes and create a personalized diet
+"Don't waste, try new tastes"
 
 ## How does it works 🐍
 
+Python application that allows you to recognize foods, create recipes and create a personalized diet
 The app will be able to use your spare food to make a meal, a desert, a snack or even breakfast. This is based on photos taken by the user.
 
 ## Artificial Intelligence 🧠
