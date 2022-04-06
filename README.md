@@ -18,6 +18,6 @@ The app will be able to use your spare food to make a meal, a desert, a snack or
 
 To install the application, you just need to download the .py files on the computer, install librairies on the one our projects works and run .py files.
 
-## Made by 
+## Made by 🔨 
 
 Matis Fabre, Bizot Patrick, Margo Rozhkova, Roman Lokmane, Michaël Chauvet, Thomas Deronne, Raphaël Pelerin and Ulysses Poulin
