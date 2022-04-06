@@ -5,7 +5,7 @@
 </p>
 
 <p align = "center">
- <strong><FONT size="5">Don't waste, try new tastes</FONT></strong>
+ <strong><FONT size="15">Don't waste, try new tastes</FONT></strong>
 </p>
 
 ## How does it works 🐍
