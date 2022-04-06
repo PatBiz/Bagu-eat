@@ -3,8 +3,9 @@
 <p align = "center"> 
  <img src="https://user-images.githubusercontent.com/80221917/162082538-3b4c24c6-9339-40d1-9b70-cba2152eede6.png" width="250"> 
 </p>
+
 <p align = "center">
- <FONT size="5">Don't waste, try new tastes</FONT>
+ <strong><FONT size="5">Don't waste, try new tastes</FONT></strong>
 </p>
 
 ## How does it works 🐍
