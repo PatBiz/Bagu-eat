@@ -1,12 +1,8 @@
 # Bagu'eat 🥖
 
-<p align = "right">
+<p align = "center">
 <img src="https://user-images.githubusercontent.com/80221917/162082538-3b4c24c6-9339-40d1-9b70-cba2152eede6.png" width="100">
 </p>
-
-<p style="line-height:65px;">
- "Don't Waste, try new tastes"
-</p>	
 
 ## How does it works 🐍
 
