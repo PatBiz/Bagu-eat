@@ -17,7 +17,7 @@ The app will be able to use your spare food to make a meal, a desert, a snack or
 ## Installation ⬇
 
 - Download the .py files,
-- Install librairies on the one our projects works 
+- Install librairies on which our projects works 
 - Run .py files
 
 ## Made by 🔨 
