@@ -1,6 +1,6 @@
 # Bagu'eat 🥖
 
-"Don't waste, try new tastes"
+**"Don't waste, try new tastes"**
 
 ## How does it works 🐍
 
