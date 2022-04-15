@@ -66,7 +66,7 @@ basePlat = sql3.connect('basePlat.db')
 listePlatIA = []
 
 def name_ingTOid_ing (listeIngredient) :
-    #Ne pas enlever la ',' devant 'nomIng' dans le .format()
+    #Ne pas enlever la ',' devant 'nomIng' dans le .format() car doit être traité cme un unique elmt
     return [basePlat.cursor().execute('SELECT id_ing FROM Ingredient WHERE nom_ing = ?',(nomIng,)).fetchall()[0][0] for nomIng in listeIngredient]
 
 #print(name_ingTOid_ing(['apple','tomato sauce','onion']))
